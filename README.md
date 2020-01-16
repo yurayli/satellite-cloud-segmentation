@@ -18,7 +18,8 @@ Identify and segment the required class of cloud organization from given satelli
 * TTA with hflip, vflip, rotate90
 
 #### Optimizer
-Adam with 1-cycle scheduler
+* Adam with 1-cycle scheduler
+* BCE+Dice Loss
 
 <img src="imgs/img1.png" width="880"/>
 <img src="imgs/img2.png" width="880"/>
