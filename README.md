@@ -19,9 +19,12 @@ Identify and segment the required class of cloud organization from given satelli
 #### Optimizer
 Adam with 1-cycle scheduler
 
+<img src="imgs/img1.png" width="880"/>
+<img src="imgs/img2.png" width="880"/>
+
 #### Environment
-kaggle kernel with nvidia tesla p100
-nvidia apex https://www.kaggle.com/shutil/nvidia-apex
-pytorch 1.2.0
-albumentations 0.3.3
-segmentation-models-pytorch 0.0.3
+kaggle kernel with nvidia tesla p100  
+nvidia [apex](https://www.kaggle.com/shutil/nvidia-apex)  
+pytorch 1.2.0  
+albumentations 0.3.3  
+segmentation-models-pytorch 0.0.3  
